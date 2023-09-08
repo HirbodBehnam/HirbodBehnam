@@ -12,5 +12,6 @@
 [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@ThyCrow)
 [![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:hirbod.behnam.81@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hirbod-behnam-155a84206/)
+[![Sharif Mail](https://img.shields.io/badge/-Sharif_mail-black?style=for-the-badge&logo=googlescholar)](mailto:hirbod.behnam@sharif.edu)
 
 [![Hirbod Behnam StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/4213397?theme=dark)](https://stackoverflow.com/users/4213397/hirbod-behnam)

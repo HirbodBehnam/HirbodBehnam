@@ -1,6 +1,6 @@
 ### Hello there! I'm Hirbod Behnam!
 
-<!-- I like computer networks and operating systems.-->
+I like operating systems and computer networks, especially the internet censorship circumvention field of it.
 
 ### Github Status
 ![Hirbod Behnam GitHub](https://github-readme-stats.vercel.app/api?username=HirbodBehnam&show_icons=True&theme=tokyonight)
